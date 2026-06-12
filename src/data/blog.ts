@@ -27,7 +27,7 @@ export const blogPosts: BlogPost[] = [
     author: "Dr. Arjun Mehta",
     date: "2025-05-15",
     readTime: "6 min",
-    image: "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&h=500&fit=crop",
+    image: "/images/blog/heart-attack.png",
     content: `Heart disease remains India's leading cause of death, yet many heart attacks are preceded by warning signs that go unrecognized for days or weeks. As an interventional cardiologist who has treated thousands of patients, I want you to know exactly what to watch for.
 
 **1. Chest Discomfort That Comes and Goes**
@@ -56,7 +56,7 @@ If you experience these symptoms, call our 24/7 emergency line immediately: +91 
     author: "Dr. Arjun Mehta",
     date: "2025-05-08",
     readTime: "8 min",
-    image: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&h=500&fit=crop",
+    image: "/images/blog/blood-pressure.jpg",
     content: `Blood pressure is recorded as two numbers — systolic (top) and diastolic (bottom). Understanding both is essential for protecting your heart, brain, and kidneys.
 
 **Normal Blood Pressure:** Less than 120/80 mmHg
@@ -80,7 +80,7 @@ Lifestyle changes alone may suffice for elevated BP. Stage 1 hypertension with c
     author: "Dr. Arjun Mehta",
     date: "2025-04-28",
     readTime: "7 min",
-    image: "https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=800&h=500&fit=crop",
+    image: "/images/blog/indian-diet.jpg",
     content: `One of the most common questions I hear is: "Doctor, can I still eat Indian food?" The answer is absolutely yes — with smart modifications.
 
 **Embrace These**
@@ -103,7 +103,7 @@ Traditional Rajasthani cuisine can be adapted — bajra roti over missi roti wit
     author: "Dr. Arjun Mehta",
     date: "2025-04-20",
     readTime: "6 min",
-    image: "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?w=800&h=500&fit=crop",
+    image: "/images/blog/exercise.png",
     content: `Starting or maintaining exercise after 40 requires a heart-smart approach. Here's my evidence-based framework for patients in Jaipur and beyond.
 
 **Get Cleared First**
@@ -129,7 +129,7 @@ Exercise early morning (6–8 AM) or evening (5–7 PM) to avoid peak heat. Stay
     author: "Dr. Arjun Mehta",
     date: "2025-04-12",
     readTime: "9 min",
-    image: "https://images.unsplash.com/photo-1584515933487-779824d29309?w=800&h=500&fit=crop",
+    image: "/images/blog/senior-health.png",
     content: `Heart disease presentation changes with age. Symptoms become subtler, multiple conditions overlap, and medication management grows complex. Here's what every family caring for a senior should understand.
 
 **Atypical Presentations**
@@ -155,7 +155,7 @@ Help with medication adherence, accompany to appointments, monitor weight daily 
     author: "Dr. Arjun Mehta",
     date: "2025-04-05",
     readTime: "7 min",
-    image: "https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?w=800&h=500&fit=crop",
+    image: "/images/blog/cholesterol.png",
     content: `Misinformation about cholesterol costs lives. Let me address the most dangerous myths I encounter in my Jaipur practice.
 
 **Myth 1: "Thin people don't have high cholesterol"**
