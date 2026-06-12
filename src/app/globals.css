@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-medical-white text-navy antialiased;
+  }
+
+  ::selection {
+    @apply bg-medical-blue/20 text-navy;
+  }
+}
+
+@layer components {
+  .container-custom {
+    @apply mx-auto max-w-7xl px-4 sm:px-6 lg:px-8;
+  }
+
+  .section-padding {
+    @apply py-16 md:py-24 lg:py-28;
+  }
+
+  .heading-display {
+    @apply font-display text-3xl font-bold tracking-tight text-navy md:text-4xl lg:text-5xl;
+  }
+
+  .heading-section {
+    @apply font-display text-2xl font-bold tracking-tight text-navy md:text-3xl lg:text-4xl;
+  }
+
+  .text-body {
+    @apply text-base leading-relaxed text-navy-600 md:text-lg;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-full bg-navy px-6 py-3 text-sm font-semibold text-white transition-all duration-300 hover:bg-navy-700 hover:shadow-premium-lg active:scale-[0.98];
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 rounded-full border-2 border-navy bg-transparent px-6 py-3 text-sm font-semibold text-navy transition-all duration-300 hover:bg-navy hover:text-white active:scale-[0.98];
+  }
+
+  .btn-accent {
+    @apply inline-flex items-center justify-center gap-2 rounded-full bg-medical-blue px-6 py-3 text-sm font-semibold text-white transition-all duration-300 hover:bg-navy hover:shadow-glow active:scale-[0.98];
+  }
+
+  .card-premium {
+    @apply rounded-2xl border border-medical-silver-light bg-white p-6 shadow-premium transition-all duration-300 hover:-translate-y-1 hover:shadow-premium-lg;
+  }
+
+  .glass-nav {
+    @apply border-b border-navy/5 bg-white/80 backdrop-blur-xl;
+  }
+
+  .gradient-text {
+    @apply bg-gradient-to-r from-navy to-medical-blue bg-clip-text text-transparent;
+  }
+
+  .section-label {
+    @apply mb-3 inline-block text-sm font-semibold uppercase tracking-widest text-medical-blue;
+  }
+}
+
+@layer utilities {
+  .animate-delay-100 { animation-delay: 100ms; }
+  .animate-delay-200 { animation-delay: 200ms; }
+  .animate-delay-300 { animation-delay: 300ms; }
+  .animate-delay-400 { animation-delay: 400ms; }
+}
