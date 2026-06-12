@@ -27,7 +27,7 @@ export const blogPosts: BlogPost[] = [
     author: "Dr. Arjun Mehta",
     date: "2025-05-15",
     readTime: "6 min",
-    image: "https://images.unsplash.com/photo-1579684385127-1ef15a5f095e?w=800&h=500&fit=crop",
+    image: "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?w=800&h=500&fit=crop",
     content: `Heart disease remains India's leading cause of death, yet many heart attacks are preceded by warning signs that go unrecognized for days or weeks. As an interventional cardiologist who has treated thousands of patients, I want you to know exactly what to watch for.
 
 **1. Chest Discomfort That Comes and Goes**
@@ -103,7 +103,7 @@ Traditional Rajasthani cuisine can be adapted — bajra roti over missi roti wit
     author: "Dr. Arjun Mehta",
     date: "2025-04-20",
     readTime: "6 min",
-    image: "https://images.unsplash.com/photo-1571019614242-c5c5fe992512?w=800&h=500&fit=crop",
+    image: "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?w=800&h=500&fit=crop",
     content: `Starting or maintaining exercise after 40 requires a heart-smart approach. Here's my evidence-based framework for patients in Jaipur and beyond.
 
 **Get Cleared First**
@@ -129,7 +129,7 @@ Exercise early morning (6–8 AM) or evening (5–7 PM) to avoid peak heat. Stay
     author: "Dr. Arjun Mehta",
     date: "2025-04-12",
     readTime: "9 min",
-    image: "https://images.unsplash.com/photo-1576765608535-39f9e8e4c8c8?w=800&h=500&fit=crop",
+    image: "https://images.unsplash.com/photo-1584515933487-779824d29309?w=800&h=500&fit=crop",
     content: `Heart disease presentation changes with age. Symptoms become subtler, multiple conditions overlap, and medication management grows complex. Here's what every family caring for a senior should understand.
 
 **Atypical Presentations**
@@ -155,7 +155,7 @@ Help with medication adherence, accompany to appointments, monitor weight daily 
     author: "Dr. Arjun Mehta",
     date: "2025-04-05",
     readTime: "7 min",
-    image: "https://images.unsplash.com/photo-1530497610245-83565366c9ef?w=800&h=500&fit=crop",
+    image: "https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?w=800&h=500&fit=crop",
     content: `Misinformation about cholesterol costs lives. Let me address the most dangerous myths I encounter in my Jaipur practice.
 
 **Myth 1: "Thin people don't have high cholesterol"**

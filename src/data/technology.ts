@@ -80,7 +80,7 @@ export const technologies: Technology[] = [
     id: "echocardiography",
     title: "Advanced Echocardiography",
     shortDescription: "Premium ultrasound systems with strain imaging, Doppler, and 3D reconstruction capabilities.",
-    image: "https://images.unsplash.com/photo-1579684456843-1669d8a9b6a8?w=800&h=500&fit=crop",
+    image: "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&h=500&fit=crop",
     overview:
       "Echocardiography is the most versatile cardiac imaging tool. Our advanced systems provide 2D, Doppler, colour flow mapping, tissue Doppler, and speckle-tracking strain imaging — allowing Dr. Mehta to assess heart structure, valve function, ejection fraction, and diastolic function with exceptional accuracy.",
     features: [
