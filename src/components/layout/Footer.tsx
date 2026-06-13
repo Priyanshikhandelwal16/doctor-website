@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Phone, Mail, MapPin, Heart, Clock } from "lucide-react";
+import { Phone, Mail, MapPin, Heart, Clock, Facebook, Instagram, Youtube, Linkedin } from "lucide-react";
 import { clinicInfo } from "@/data/clinic";
 
 export default function Footer() {
@@ -16,15 +16,19 @@ export default function Footer() {
               Premium interventional cardiology care by Dr. Arjun Mehta. Advanced heart treatments with compassion and precision in Jaipur.
             </p>
             <div className="flex gap-3">
-              {Object.entries(clinicInfo.social).map(([key, url]) => (
+              {[
+                { icon: Facebook, label: "Facebook" },
+                { icon: Instagram, label: "Instagram" },
+                { icon: Youtube, label: "Youtube" },
+                { icon: Linkedin, label: "Linkedin" },
+              ].map(({ icon: Icon, label }) => (
                 <a
-                  key={key}
-                  href={url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex h-9 w-9 items-center justify-center rounded-lg bg-white/10 text-sm capitalize transition-colors hover:bg-medical-blue"
+                  key={label}
+                  href="#"
+                  className="flex h-9 w-9 items-center justify-center rounded-lg bg-white/10 text-white transition-colors hover:bg-medical-blue"
+                  aria-label={label}
                 >
-                  {key[0].toUpperCase()}
+                  <Icon className="h-4 w-4" />
                 </a>
               ))}
             </div>

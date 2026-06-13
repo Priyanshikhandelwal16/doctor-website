@@ -26,7 +26,7 @@ function Counter({ value }: CounterProps) {
     if (!match) return;
 
     const numValue = parseFloat(match[1]);
-    const suffix = value.replace(match[1], "");
+    const suffix = cleanNum.replace(match[1], "");
     const isDecimal = value.includes(".");
 
     const obj = { val: 0 };

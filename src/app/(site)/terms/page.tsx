@@ -17,7 +17,7 @@ export default function TermsPage() {
 
           {[
             { title: "1. Acceptance of Terms", content: "By accessing heartcarejaipur.com and using our services, you agree to these terms. If you disagree, please do not use our website or services." },
-            { title: "2. Medical Disclaimer", content: "Information on this website is for educational purposes only and does not constitute medical advice. Always consult Dr. Arjun Mehta or a qualified physician for diagnosis and treatment. In emergencies, call +91 98290 12345 immediately." },
+            { title: "2. Medical Disclaimer", content: "Information on this website is for educational purposes only and does not constitute medical advice. Always consult Dr. Arjun Mehta or a qualified physician for diagnosis and treatment. In emergencies, call +91 99999 99999 immediately." },
             { title: "3. Appointments", content: "Online appointments are subject to confirmation. We reserve the right to reschedule due to emergencies. Cancellation requires 24-hour notice. No-show fees may apply for repeated missed appointments." },
             { title: "4. Fees & Payment", content: "Consultation and procedure fees are communicated before treatment. Payment is due at the time of service unless prior insurance authorization is obtained. EMI options are subject to third-party approval." },
             { title: "5. Limitation of Liability", content: "While we maintain the highest clinical standards, medical outcomes cannot be guaranteed. HeartCare Advanced Cardiac Centre is not liable for indirect damages arising from website use or third-party services." },

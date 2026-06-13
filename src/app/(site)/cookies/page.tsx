@@ -20,7 +20,7 @@ export default function CookiesPage() {
             { title: "Cookies We Use", content: "Essential cookies (required for site functionality), Analytics cookies (Google Analytics to understand visitor behaviour), Preference cookies (remember your settings), and Marketing cookies (only with your consent)." },
             { title: "Managing Cookies", content: "You can control cookies through your browser settings. Disabling essential cookies may affect website functionality. To opt out of analytics, use your browser's Do Not Track setting or our cookie preference centre." },
             { title: "Third-Party Cookies", content: "We use Google Maps (embedded maps), Google Analytics, and WhatsApp integration which may set their own cookies. Please refer to their respective privacy policies." },
-            { title: "Contact", content: "For cookie-related inquiries, email care@heartcarejaipur.com or call +91 141 256 7890." },
+            { title: "Contact", content: "For cookie-related inquiries, email care@heartcarejaipur.com or call +91 12345 67890." },
           ].map((section) => (
             <div key={section.title} className="mt-8">
               <h2 className="font-display text-xl font-semibold text-navy">{section.title}</h2>

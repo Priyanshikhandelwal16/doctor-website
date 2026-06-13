@@ -33,7 +33,7 @@ export default function AboutPage() {
                   alt="Dr. Arjun Mehta"
                   width={500}
                   height={650}
-                  className="object-cover"
+                  className="w-full h-auto object-cover"
                 />
               </div>
             </div>

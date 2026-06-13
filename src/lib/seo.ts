@@ -55,7 +55,7 @@ export function physicianSchema() {
     description: "Interventional Cardiologist with 18+ years experience in Jaipur, Rajasthan",
     url: "https://heartcarejaipur.com",
     image: "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=600&h=800&fit=crop",
-    telephone: "+91-141-256-7890",
+    telephone: "+91-123-456-7890",
     address: {
       "@type": "PostalAddress",
       streetAddress: "3rd Floor, C-Scheme Medical Plaza, Bhagwan Das Road",
@@ -78,7 +78,7 @@ export function medicalClinicSchema() {
     name: "HeartCare Advanced Cardiac Centre",
     description: "Premium interventional cardiology centre in Jaipur",
     url: "https://heartcarejaipur.com",
-    telephone: "+91-141-256-7890",
+    telephone: "+91-123-456-7890",
     address: {
       "@type": "PostalAddress",
       streetAddress: "3rd Floor, C-Scheme Medical Plaza, Bhagwan Das Road",

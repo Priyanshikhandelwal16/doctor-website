@@ -19,9 +19,9 @@ export const clinicInfo = {
     coordinates: { lat: 26.9124, lng: 75.7873 },
   },
   contact: {
-    phone: "+91 141 256 7890",
-    emergency: "+91 98290 12345",
-    whatsapp: "+919829012345",
+    phone: "+91 12345 67890",
+    emergency: "+91 99999 99999",
+    whatsapp: "+919999999999",
     email: "care@heartcarejaipur.com",
     appointmentEmail: "appointments@heartcarejaipur.com",
   },

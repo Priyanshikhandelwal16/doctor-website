@@ -73,7 +73,7 @@ export default function HeroSection() {
           </div>
         </div>
 
-        <TiltCard className="hero-image relative flex-shrink-0">
+        <TiltCard className="hero-image relative flex-shrink-0 w-full max-w-[480px]">
           <div className="relative">
             <div className="absolute -inset-4 rounded-3xl bg-gradient-to-br from-medical-blue/20 to-navy/10 blur-2xl" />
             <div className="relative overflow-hidden rounded-3xl shadow-premium-lg">
@@ -82,7 +82,7 @@ export default function HeroSection() {
                 alt="Dr. Arjun Mehta - Interventional Cardiologist"
                 width={480}
                 height={600}
-                className="object-cover"
+                className="w-full h-auto object-cover"
                 priority
               />
             </div>

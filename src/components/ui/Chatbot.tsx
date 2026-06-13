@@ -42,7 +42,7 @@ export default function Chatbot() {
     const q = query.toLowerCase();
     
     if (q.includes("emergency") || q.includes("chest pain") || q.includes("pain") || q.includes("heart attack") || q.includes("breathing") || q.includes("ambulance")) {
-      return "🚨 <strong>CRITICAL EMERGENCY:</strong> If you or someone nearby is experiencing crushing chest pain, tightness, jaw/arm pain, or breathlessness, please chew a 325mg Aspirin if not allergic and call our <strong>24/7 Cardiac Emergency Helpline at <a href='tel:+919829012345' class='text-accent-red underline font-bold'>+91 98290 12345</a></strong> immediately. Do not drive yourself; our emergency team will guide you.";
+      return "🚨 <strong>CRITICAL EMERGENCY:</strong> If you or someone nearby is experiencing crushing chest pain, tightness, jaw/arm pain, or breathlessness, please chew a 325mg Aspirin if not allergic and call our <strong>24/7 Cardiac Emergency Helpline at <a href='tel:+919999999999' class='text-accent-red underline font-bold'>+91 99999 99999</a></strong> immediately. Do not drive yourself; our emergency team will guide you.";
     }
     
     if (q.includes("appointment") || q.includes("book") || q.includes("slot") || q.includes("consult") || q.includes("register")) {

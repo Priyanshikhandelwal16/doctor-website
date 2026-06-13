@@ -46,7 +46,7 @@ Breaking into a cold sweat without fever or exertion, combined with nausea or li
 A heart attack can brew over days. Persistent, unusual tiredness — especially in women over 50 — warrants cardiac evaluation even without other symptoms.
 
 **What To Do**
-If you experience these symptoms, call our 24/7 emergency line immediately: +91 98290 12345. Chew an aspirin 325mg if you're not allergic. Do not wait to see if symptoms resolve. Time is muscle — every minute of delay means more permanent heart damage.`,
+If you experience these symptoms, call our 24/7 emergency line immediately: +91 99999 99999. Chew an aspirin 325mg if you're not allergic. Do not wait to see if symptoms resolve. Time is muscle — every minute of delay means more permanent heart damage.`,
   },
   {
     slug: "understanding-blood-pressure-numbers",
@@ -145,7 +145,7 @@ Blood pressure medications can cause dizziness. Orthostatic hypotension (BP drop
 Every senior should have annual ECG, echocardiography, lipid panel, and blood sugar testing. Those with known heart disease need follow-up every 3–6 months.
 
 **Family's Role**
-Help with medication adherence, accompany to appointments, monitor weight daily (for heart failure patients), and know the emergency number: +91 98290 12345.`,
+Help with medication adherence, accompany to appointments, monitor weight daily (for heart failure patients), and know the emergency number: +91 99999 99999.`,
   },
   {
     slug: "cholesterol-myths-debunked",

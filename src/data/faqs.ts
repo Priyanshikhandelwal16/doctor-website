@@ -32,7 +32,7 @@ export const faqs: FAQ[] = [
     id: "3",
     category: "General Cardiology",
     question: "How do I know if my chest pain is heart-related?",
-    answer: "Heart-related chest pain often feels like pressure, tightness, or squeezing in the centre of the chest. It may radiate to the left arm, jaw, or back and can be accompanied by sweating, nausea, or breathlessness. However, not all heart pain is typical. Any unexplained chest discomfort warrants immediate evaluation — call our emergency line at +91 98290 12345.",
+    answer: "Heart-related chest pain often feels like pressure, tightness, or squeezing in the centre of the chest. It may radiate to the left arm, jaw, or back and can be accompanied by sweating, nausea, or breathlessness. However, not all heart pain is typical. Any unexplained chest discomfort warrants immediate evaluation — call our emergency line at +91 99999 99999.",
   },
   {
     id: "4",
@@ -50,7 +50,7 @@ export const faqs: FAQ[] = [
     id: "6",
     category: "Appointments & Consultation",
     question: "How do I book an appointment with Dr. Arjun Mehta?",
-    answer: "You can book online through our website's appointment page, call +91 141 256 7890, or WhatsApp us at +91 98290 12345. Online booking allows you to choose consultation type, date, and time slot instantly with confirmation sent via SMS and email.",
+    answer: "You can book online through our website's appointment page, call +91 12345 67890, or WhatsApp us at +91 99999 99999. Online booking allows you to choose consultation type, date, and time slot instantly with confirmation sent via SMS and email.",
   },
   {
     id: "7",
@@ -134,7 +134,7 @@ export const faqs: FAQ[] = [
     id: "20",
     category: "Emergency Care",
     question: "What should I do if I think I'm having a heart attack?",
-    answer: "Call our 24/7 emergency line immediately at +91 98290 12345. Chew an aspirin 325mg if not allergic. Do not drive yourself. Our team activates the cardiac emergency protocol to prepare the cath lab before you arrive, saving critical time.",
+    answer: "Call our 24/7 emergency line immediately at +91 99999 99999. Chew an aspirin 325mg if not allergic. Do not drive yourself. Our team activates the cardiac emergency protocol to prepare the cath lab before you arrive, saving critical time.",
   },
   {
     id: "21",
